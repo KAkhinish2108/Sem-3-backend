@@ -1,4 +1,0 @@
-Name:Subham
-Password:abcd
-Name:Vijay
-Password:xyz
